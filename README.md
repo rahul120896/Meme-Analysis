@@ -4,8 +4,9 @@
 
   Scraper.ipynb - This file will help you to extract the image links from a website.
 
-  Renaming_files.ipynb- This file will rename th files in the folder (ex-1-1000).
+  Renaming_files.ipynb- This file will rename the files in the folder (ex-1-1000).
 
+  OCR.ipynb - This file will extract text from the images.
 
 # Note: 
   All the files in this folder contains ipynb files. So, Use Google Colab or Jupyter Notebook.
